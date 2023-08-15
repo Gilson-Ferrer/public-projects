@@ -1,2 +1,2 @@
-# public-projects
+# varied-projects
 Public projects to help students
